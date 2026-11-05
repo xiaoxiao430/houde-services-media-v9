@@ -1,0 +1,63 @@
+[
+  {
+    "id": "BV1BKTt6tEAr",
+    "title": "【CCTV 匠心之路】《一声厚德 一世厚德》正式开播！教育的答案，不止在书本里",
+    "url": "https://www.bilibili.com/video/BV1BKTt6tEAr/",
+    "cover": "./ideals/BV1BKTt6tEAr.jpg",
+    "platform": "B站",
+    "owner": "海慕文化",
+    "duration": 679,
+    "sourceApi": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BKTt6tEAr",
+    "coverSource": "https://i2.hdslb.com/bfs/archive/3c6c26475592a30e660d0fc6c25bec886b1852c2.jpg",
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "BV1gv1sBvESm",
+    "title": "赣州市厚德外国语学校近五年亮点工作回眸",
+    "url": "https://www.bilibili.com/video/BV1gv1sBvESm/",
+    "cover": "./ideals/BV1gv1sBvESm.jpg",
+    "platform": "B站",
+    "owner": "海慕文化",
+    "duration": 1092,
+    "sourceApi": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gv1sBvESm",
+    "coverSource": "https://i0.hdslb.com/bfs/archive/42b061b13d8ac033a4b4b49336c332164c0e5091.jpg",
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "BV1gv1sBvEZM",
+    "title": "厚外教育2024年十大要闻",
+    "url": "https://www.bilibili.com/video/BV1gv1sBvEZM/",
+    "cover": "./ideals/BV1gv1sBvEZM.jpg",
+    "platform": "B站",
+    "owner": "海慕文化",
+    "duration": 1024,
+    "sourceApi": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gv1sBvEZM",
+    "coverSource": "https://i0.hdslb.com/bfs/archive/74e5fc93dc0cde2b6715c117c420ba75cdd0aaf6.jpg",
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "BV1Qv1sBvEJ6",
+    "title": "2022教学成果展示",
+    "url": "https://www.bilibili.com/video/BV1Qv1sBvEJ6/",
+    "cover": "./ideals/BV1Qv1sBvEJ6.jpg",
+    "platform": "B站",
+    "owner": "海慕文化",
+    "duration": 837,
+    "sourceApi": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qv1sBvEJ6",
+    "coverSource": "https://i0.hdslb.com/bfs/archive/38e5c41a8bf31f09986d933c7fa9ca3407923ecc.jpg",
+    "verifiedAt": "2026-11-05"
+  },
+  {
+    "id": "douyin-7619227767917399348",
+    "title": "你的最佳学习搭子是谁？快来认领～",
+    "url": "https://www.douyin.com/video/7619227767917399348",
+    "cover": "./ideals/douyin-7619227767917399348.jpg",
+    "platform": "抖音",
+    "owner": "赣州厚德外国语学校",
+    "duration": null,
+    "sourceApi": "现有v2原型归档与src/douyin-media.ts",
+    "coverSource": "本机公开原作封面归档",
+    "verifiedAt": "2026-10-30",
+    "note": "沿用此前核对记录；本次抖音作品页受平台环境限制，未重新获取元数据。"
+  }
+]

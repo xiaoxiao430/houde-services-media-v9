@@ -1,0 +1,252 @@
+[
+  {
+    "file": "fudan-gate.jpg",
+    "pdf": "【国内名校系列】上海复旦大学机器人官方科技探索营(1).pdf",
+    "page": 1,
+    "object": "IM19.jpg",
+    "size": [
+      660,
+      440
+    ],
+    "sourceSha256": "f974f11aad568f21275d5f514f8bea8b6d74bf49836e47df825b1e1c9c4461f4"
+  },
+  {
+    "file": "fudan-science.jpg",
+    "pdf": "【国内名校系列】上海复旦大学机器人官方科技探索营(1).pdf",
+    "page": 5,
+    "object": "IM60.jpg",
+    "size": [
+      1080,
+      809
+    ],
+    "sourceSha256": "f974f11aad568f21275d5f514f8bea8b6d74bf49836e47df825b1e1c9c4461f4"
+  },
+  {
+    "file": "uk-classroom.jpg",
+    "pdf": "【国际全真系列】英国重点中小学校插班+英格兰文化探索营(1).pdf",
+    "page": 4,
+    "object": "IM47.jpg",
+    "size": [
+      1280,
+      799
+    ],
+    "sourceSha256": "4735111463fbf25263e86fa4c35d11ab1f44bac713eba8de74e20d069fa431d5"
+  },
+  {
+    "file": "uk-culture.jpg",
+    "pdf": "【国际全真系列】英国重点中小学校插班+英格兰文化探索营(1).pdf",
+    "page": 6,
+    "object": "IM63.jpg",
+    "size": [
+      533,
+      352
+    ],
+    "sourceSha256": "4735111463fbf25263e86fa4c35d11ab1f44bac713eba8de74e20d069fa431d5"
+  },
+  {
+    "file": "uk-school.jpg",
+    "pdf": "【国际全真系列】英国重点中小学校插班+英格兰文化探索营(1).pdf",
+    "page": 8,
+    "object": "IM82.jpg",
+    "size": [
+      997,
+      559
+    ],
+    "sourceSha256": "4735111463fbf25263e86fa4c35d11ab1f44bac713eba8de74e20d069fa431d5"
+  },
+  {
+    "file": "hkust-campus.jpg",
+    "pdf": "【国际名校系列】香港科技大学AI人工智能科技探索营(1).pdf",
+    "page": 4,
+    "object": "IM39.jpg",
+    "size": [
+      1080,
+      720
+    ],
+    "sourceSha256": "c4c897372ab3980c10dd5bac2aa5a73cf1f9ba5d455be05869719cce9d59508f"
+  },
+  {
+    "file": "hkust-enterprise.jpg",
+    "pdf": "【国际名校系列】香港科技大学AI人工智能科技探索营(1).pdf",
+    "page": 8,
+    "object": "IM59.jpg",
+    "size": [
+      1080,
+      810
+    ],
+    "sourceSha256": "c4c897372ab3980c10dd5bac2aa5a73cf1f9ba5d455be05869719cce9d59508f"
+  },
+  {
+    "file": "sjtu-5.jpg",
+    "pdf": "上海交大人工智能科创营-1(1).pdf",
+    "page": 6,
+    "object": "IM86.jpg",
+    "size": [
+      1005,
+      659
+    ]
+  },
+  {
+    "file": "sjtu-6.jpg",
+    "pdf": "上海交大人工智能科创营-1(1).pdf",
+    "page": 6,
+    "object": "IM87.jpg",
+    "size": [
+      1400,
+      900
+    ]
+  },
+  {
+    "file": "sjtu-7.jpg",
+    "pdf": "上海交大人工智能科创营-1(1).pdf",
+    "page": 6,
+    "object": "IM88.jpg",
+    "size": [
+      1400,
+      911
+    ]
+  },
+  {
+    "file": "hongkong-museum.jpg",
+    "pdf": "【国际名校系列】香港科技大学AI人工智能科技探索营(1).pdf",
+    "page": 10,
+    "object": "IM70.jpg",
+    "size": [
+      1080,
+      682
+    ]
+  },
+  {
+    "file": "xingguo-gate.jpg",
+    "sourceUrl": "https://www.ybhxg.com/uploads/20220830/a10225621c46f27ec6823bf2435b261c.jpg",
+    "sourceSite": "https://www.ybhxg.com/",
+    "accessed": "2026-11-05",
+    "size": [
+      1400,
+      788
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "xingguo-culture.jpg",
+    "sourceUrl": "https://www.ybhxg.com/uploads/20220830/2c8c3b646d40d24ce1860e558378690b.jpg",
+    "sourceSite": "https://www.ybhxg.com/",
+    "accessed": "2026-11-05",
+    "size": [
+      1400,
+      788
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "xingguo-exploration.jpg",
+    "sourceUrl": "https://www.ybhxg.com/uploads/20220830/dbdd5cf8af8c6c4d0a1ee651f8582b64.jpg",
+    "sourceSite": "https://www.ybhxg.com/",
+    "accessed": "2026-11-05",
+    "size": [
+      1400,
+      788
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "qianxin-culture.jpg",
+    "sourceUrl": "https://www.jxln.gov.cn/lnzf/c104704/202308/8fa074d44a564320a8ea160666430579/images/300e56fa83e446709e092bfa21b53b3c.jpg",
+    "sourceSite": "https://www.jxln.gov.cn/lnzf/c104704/202308/8fa074d44a564320a8ea160666430579.shtml",
+    "accessed": "2026-11-05",
+    "size": [
+      1080,
+      720
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "qianxin-nature.jpg",
+    "sourceUrl": "https://www.jxln.gov.cn/lnzf/c104704/202308/8fa074d44a564320a8ea160666430579/images/821e4f2890974b6dba13c6963591e869.jpg",
+    "sourceSite": "https://www.jxln.gov.cn/lnzf/c104704/202308/8fa074d44a564320a8ea160666430579.shtml",
+    "accessed": "2026-11-05",
+    "size": [
+      1080,
+      656
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "qianxin-entrance.jpg",
+    "sourceUrl": "https://www.jxln.gov.cn/lnzf/c104704/202308/8fa074d44a564320a8ea160666430579/images/e9b0e98cfb3245f9a10b1b9b6d6a3c17.jpg",
+    "sourceSite": "https://www.jxln.gov.cn/lnzf/c104704/202308/8fa074d44a564320a8ea160666430579.shtml",
+    "accessed": "2026-11-05",
+    "size": [
+      1080,
+      608
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "chimelong-tiger.jpg",
+    "sourceUrl": "https://cdn.chimelong.com/assets/images/pic-1.699a7d6.jpg",
+    "sourceSite": "https://www.chimelong.com/gz/safaripark/",
+    "accessed": "2026-11-05",
+    "size": [
+      566,
+      566
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "chimelong-giraffes.jpg",
+    "sourceUrl": "https://cdn.chimelong.com/assets/images/pic-2.c1d3a00.jpg",
+    "sourceSite": "https://www.chimelong.com/gz/safaripark/",
+    "accessed": "2026-11-05",
+    "size": [
+      566,
+      566
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "chimelong-panda.jpg",
+    "sourceUrl": "https://cdn.chimelong.com/assets/images/pic-5.046eb83.jpg",
+    "sourceSite": "https://www.chimelong.com/gz/safaripark/",
+    "accessed": "2026-11-05",
+    "size": [
+      566,
+      566
+    ],
+    "note": "目的地官方公开介绍配图，仅作原型展示；不代表厚外已获合作或素材商用授权。"
+  },
+  {
+    "file": "disney-entrance.jpg",
+    "sourceUrl": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1600/900/75/vision-dam/digital/hkdl-platform/hkdl-standard-assets/finder_hk/en-intl/system/images/g-l/hkdl-theme-park-1280x720-new.jpg?2022-05-22T00:00:22+00:00",
+    "sourceSite": "https://www.hongkongdisneyland.com/zh-cn/destinations/theme-park/",
+    "accessed": "2026-11-05",
+    "size": [
+      1280,
+      720
+    ],
+    "note": "© Disney；官网目的地配图，仅作原型展示，正式商业使用前核定素材许可。"
+  },
+  {
+    "file": "hongkong-hku.jpg",
+    "pdf": "【国际名校系列】香港名校学术体验项目探索营(1).pdf",
+    "page": 4,
+    "object": "IM45.jp2",
+    "crop": [
+      0,
+      0,
+      342,
+      264
+    ],
+    "note": "仅保留校园照片，去除原图下方排名宣传文字。"
+  },
+  {
+    "file": "fudan-robot.jpg",
+    "pdf": "【国内名校系列】上海复旦大学机器人官方科技探索营(1).pdf",
+    "page": 3,
+    "object": "IM40.jpg",
+    "size": [
+      1080,
+      780
+    ]
+  }
+]

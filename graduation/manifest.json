@@ -1,0 +1,38 @@
+[
+  {
+    "file": "./graduation/primary-friends.jpg",
+    "stage": "小学",
+    "caption": "2022届小学毕业典礼 · 领取毕业证书",
+    "source": "https://www.houdeschool.cn/XX/shownews.php?id=720"
+  },
+  {
+    "file": "./graduation/primary-playground.jpg",
+    "stage": "小学",
+    "caption": "2022届小学毕业典礼 · 师生共同留影",
+    "source": "https://www.houdeschool.cn/XX/shownews.php?id=720"
+  },
+  {
+    "file": "./graduation/junior-2022-awards.jpg",
+    "stage": "初中",
+    "caption": "2022届初中毕业典礼 · 颁发毕业纪念",
+    "source": "https://www.houdeschool.cn/chuzhong/shownews.php?id=704"
+  },
+  {
+    "file": "./graduation/junior-2022-together.jpg",
+    "stage": "初中",
+    "caption": "2022届初中毕业典礼 · 同学与老师",
+    "source": "https://www.houdeschool.cn/chuzhong/shownews.php?id=704"
+  },
+  {
+    "file": "./graduation/senior-2020-library.jpg",
+    "stage": "高中",
+    "caption": "2020高中毕业季归档样片 · 图书馆里的合影",
+    "source": "本机历史项目归档／高中部毕业季样片2020／3.jpg"
+  },
+  {
+    "file": "./graduation/senior-2020-track.jpg",
+    "stage": "高中",
+    "caption": "2020高中毕业季归档样片 · 青春与跑道",
+    "source": "本机历史项目归档／高中部毕业季样片2020／7.jpg"
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "version": "1.0.0",
+  "confirmedAt": "2026-11-05",
+  "campuses": [
+    {
+      "id": "xingguo",
+      "label": "兴国路校区",
+      "schoolName": "赣州市厚德外国语学校",
+      "aliases": [
+        "兴国路"
+      ],
+      "file": "xingguolu.webp",
+      "width": 1600,
+      "height": 889,
+      "description": "正面校门、树木与白色教学楼",
+      "sha256": "ae0ddcb36aecffa437f37438b8b58015c07ef0af894759e9c327ad4695aed5b1",
+      "sourceProject": "厚外大教研与人才发展 v14",
+      "sourceUrl": "https://xiaoxiao430.github.io/j/assets/campuses/xingguolu.webp"
+    },
+    {
+      "id": "xiangjiang",
+      "label": "香江路校区",
+      "schoolName": "赣州市厚德学校",
+      "aliases": [
+        "香江路"
+      ],
+      "file": "xiangjianglu.webp",
+      "width": 1600,
+      "height": 671,
+      "description": "全校正面街景",
+      "sha256": "651b3c5029116615305b44b74bfe0380e0a2a48aa010e99bd2c9320559ff0498",
+      "sourceProject": "厚外大教研与人才发展 v14",
+      "sourceUrl": "https://xiaoxiao430.github.io/j/assets/campuses/xiangjianglu.webp"
+    },
+    {
+      "id": "fengshan",
+      "label": "峰山校区",
+      "schoolName": "赣州市厚德外国语高级中学",
+      "aliases": [
+        "峰山",
+        "九里峰山"
+      ],
+      "file": "jiulifengshan.webp",
+      "width": 1600,
+      "height": 1199,
+      "description": "正面校门、中心广场与幸福标语连廊",
+      "sha256": "6ee2e9c5fd7d526534d83423692190482f1db62b019f8212936eef584ebd7edc",
+      "sourceProject": "厚外大教研与人才发展 v14",
+      "sourceUrl": "https://xiaoxiao430.github.io/j/assets/campuses/jiulifengshan.webp"
+    }
+  ]
+}

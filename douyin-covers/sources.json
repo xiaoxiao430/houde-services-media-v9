@@ -1,0 +1,26 @@
+[
+  {
+    "verifiedAt": "2026-10-30",
+    "method": "普通未登录Chrome打开公开聚合页，读取其页面内公开SSR数据；未调用受限接口、未绕过登录或验证码。",
+    "sourcePage": "https://www.douyin.com/shipin/7343650458700990516",
+    "videoUrl": "https://www.douyin.com/video/7619227767917399348",
+    "author": "赣州厚德外国语学校",
+    "authorSecUid": "MS4wLjABAAAA5iCahjUmwTZyjVMfQ69RlXHCIR0zAgrRrTfGd4HjjzA",
+    "originalTitle": "你的最佳学习搭子是谁？快来认领～#初中 #校园 #青春 #学习搭子 #课代表",
+    "publishedAt": "2026-03-20",
+    "originalCoverUrl": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4663124f6fe6495b3c238a9a0026380c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108689200&x-signature=zdlXSj91%2FzCletEfXs0Tp84Zmao%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026103011404419C0F6131EA35EBB5DC9",
+    "localCover": "./douyin-covers/7619227767917399348.jpg",
+    "coverSha256": "489451f5dfa498f54c76af6fa0d484adb1571e59c742010849fc59d5d2626e1a",
+    "observedLikeCount": 516,
+    "displayHeat": false,
+    "limitations": [
+      "官网账号主页可核实认证，但未登录公开页未加载作品网格。",
+      "公开搜索页面要求验证码，已停止该入口。",
+      "索引聚合页中的其他推荐来自其他作者，均未作为学校官号作品纳入。",
+      "本轮仅核到这一条具有完整原封面、作者身份与精确视频URL的官方作品。"
+    ],
+    "coverWidth": 440,
+    "coverHeight": 330,
+    "coverBytes": 14259
+  }
+]
