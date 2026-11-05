@@ -1,0 +1,15 @@
+{
+  "asset": "notebook-set",
+  "source": "notebook-set.png",
+  "output": "notebook-set.webp",
+  "encoding": "lossless WebP",
+  "width": 1254,
+  "height": 1254,
+  "pixelsUnchanged": true,
+  "decodedRgbaSha256": "d04d2a4e0056de0b16f3ae24c07e677aff88342f477840f0c98d57d04389f74c",
+  "sourceSha256": "9015064ee144395af42ed3c5bae621a2d290693d4b597b8ebecee88570435ad8",
+  "outputSha256": "25c8bcef626df32820f92680c5c3e6cde7ad5aa6a9cf3f4f1310ed68ccd1b27a",
+  "sourceBytes": 1959890,
+  "outputBytes": 1253786,
+  "reductionPercent": 36.03
+}

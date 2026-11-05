@@ -73,6 +73,7 @@
     "public/media-v8/fengshan/verified-works.json",
     "public/media-v8/xingguo/verified-works.json",
     "public/media-v9/douyin/manifest.json",
+    "public/products/notebook-set-encoding.json",
     "public/service-scenes/manifest.json",
     "public/travel/sources.json"
   ],
@@ -117,7 +118,7 @@
     "src/services-data.ts": "73251cf421895ef98a3abb9a7e7c0436fb5487333ff7033350adecff235e78c7",
     "src/services-model.ts": "68906a34dfc0441bc32e694bef29ca397c4b8e9ab1580673bed3a20da8b855f6",
     "src/services-store.ts": "7a3e238d08f67dcddbbd1a21093a64fc051ffb736f1cb95aa0a9185336a5978c",
-    "src/shop-catalog.ts": "c6aa18c787a100858c79dcb72b50ca4b0cf607515d619fad50d9270f6b6a736e",
+    "src/shop-catalog.ts": "4bba78965ebacec03174fd67ad074603e137586c136d8607af080f9e62a7e86f",
     "src/store.ts": "215cc94fcd0a13cea1643d6973f6a6528c36f354274fa7b2acf848b5ea2e2a62",
     "src/travel-catalog.ts": "d260f6f3f5a8fb8c5837d604a88ace9d800c5b7cbc3bf13b8c389a523c5819d9",
     "src/types.ts": "56ae45822555e6f926ffe4c9b0a033d4811638c43b577494af5b74053688b502",
@@ -132,6 +133,7 @@
     "public/media-v8/fengshan/verified-works.json": "d34c408c8f6df69b7b1574eb9c2a27c37a89f4e971ec327674fb3f2a01ba5d98",
     "public/media-v8/xingguo/verified-works.json": "cb84d0a2413210226f57d29c3919278200c5e6d8c92f0baed347a150bb84aee1",
     "public/media-v9/douyin/manifest.json": "9bdfcdad77f8c62eb84d1592a9026b352c7b7e843002b3a0dd6a472f4a936219",
+    "public/products/notebook-set-encoding.json": "180ee7e929f76b4eef4b22a3e4abd55dd6dd43ab525d8bcab1422f144171e580",
     "public/service-scenes/manifest.json": "68da01003357f3c918c08d29efcf8fb22f81558b4c476d7fc4b40d52afdd5e81",
     "public/travel/sources.json": "d3b8f5435348ec74d73437ec3840ad41b6daf84d3e380ccb3671abe5ecdfaa0b"
   },
