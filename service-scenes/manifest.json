@@ -1,0 +1,358 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-11-05",
+  "source": "本项目原生SVG原创绘制；无第三方素材、字体或可见文字",
+  "usage": "服务情境与任务流程示意；非实拍或已交付案例",
+  "files": [
+    {
+      "file": "./service-scenes/after-school-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "72f77b68019ede61bb5ef471d305124fa564eab41d78d522faebf7291ccc56dc"
+    },
+    {
+      "file": "./service-scenes/after-school.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "2bd7346a0ad6f36c8fd88a98153b554ba5c611c0e821fa7300e9a02e59f0d56b"
+    },
+    {
+      "file": "./service-scenes/ai-study-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "01e329702709840cd54a3cfe07694b0b06d41405bf02b4048dedd308f9e60f46"
+    },
+    {
+      "file": "./service-scenes/ai-study.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "697baf8dd50f96d7371455c52c84a821402d41c06fac46ffb259e79cb856f80d"
+    },
+    {
+      "file": "./service-scenes/basketball-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "3a140bc9fc494a0435fdd87b1cec4ac1bdff472066692deebef14bd84b9c5774"
+    },
+    {
+      "file": "./service-scenes/basketball.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "5cf425aa3d2fe0ddda4b9b8d3abb872e45307651fe0eadcbf15eb098c86d2f9a"
+    },
+    {
+      "file": "./service-scenes/billing-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "c87015b29b8a216be80d638bf61476f0ec30578ec15df62aa1927a6e3c71ed86"
+    },
+    {
+      "file": "./service-scenes/billing.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "661655bba252dc0a6fb8321cccfb70cf539fbe1c85c23f4a3ead50e92e7b3b27"
+    },
+    {
+      "file": "./service-scenes/calligraphy-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "f01825df5846a7a7584b1c8cc721bda34452e9bf811af7fb05d23f671670a49f"
+    },
+    {
+      "file": "./service-scenes/calligraphy.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "c471e4c287dbb5f5e36a4a7193af74772404585aaa4ab6ded92c85806a121493"
+    },
+    {
+      "file": "./service-scenes/career-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "d954b7b52af4074bed1ed6e0464d3facb387021d5435cf2f421c261725456f2e"
+    },
+    {
+      "file": "./service-scenes/career.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "2b606bc1491464a9aeb557a2b17adac68398af01f0356375e462b62efc81b0b8"
+    },
+    {
+      "file": "./service-scenes/chess-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "27fc3b283996331d2d7e3c83dd47965ffa1893130fb82d958b3a459d4c481f06"
+    },
+    {
+      "file": "./service-scenes/chess.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "751831f96d40df740b9424ccdc6d65ad858d045b4c6f400b7405e05dbd48973f"
+    },
+    {
+      "file": "./service-scenes/childcare-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "2a6a7c79b653a11dc5f0b40abd396e6d04ccf674bc71303735a4ad93c7245e0e"
+    },
+    {
+      "file": "./service-scenes/childcare.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "15e2ef29bf5f607fc7556e4c498f6a5881f1ab59b1be0b572a26476913810498"
+    },
+    {
+      "file": "./service-scenes/dance-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "01bcd441dd6771c7e0c41e5cdbcb10d41aaf573b210559cd962baf5929edaa27"
+    },
+    {
+      "file": "./service-scenes/dance.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "17e0b02a722d9e952a28b41ef6645839f780baaaebf718fbef8d2e153e3d6fcb"
+    },
+    {
+      "file": "./service-scenes/dining-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "17cf5b6d2bd0db89ee39d1e7c2c5d5f86f652b07830920520a6d0f66875883c0"
+    },
+    {
+      "file": "./service-scenes/dining.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "cf437b162c16127a1639541eaaddb800ec28761f3a11ce01e845f5c30c6502ac"
+    },
+    {
+      "file": "./service-scenes/drums-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "df230b36d52460118ec0fc1466b62a5d213075f764bf4f637731f1593f1deef9"
+    },
+    {
+      "file": "./service-scenes/drums.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "060b4e0f96ac41051d46283e549dc4dbc6eb53a789bacfcb51b6b63490d19dc0"
+    },
+    {
+      "file": "./service-scenes/family-tech-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "71ed4ba071f5660bcba2eb799a307e244ec6fdea48b94018272b98ad1c1b1451"
+    },
+    {
+      "file": "./service-scenes/family-tech.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "940c292cbc89e282c943c522f882a64757ca4e750ffa232c7de33e33f87f2e65"
+    },
+    {
+      "file": "./service-scenes/feedback-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "95287f5ccfb1e9b46fafa99756ebc68c067973e6084a0fa440bd4050427fbf6b"
+    },
+    {
+      "file": "./service-scenes/feedback.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "226b093ae10675889d6a6756217118bf7412aebc2ee37d56fec3a8957febef9b"
+    },
+    {
+      "file": "./service-scenes/go-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "16ee19ad73430d6e50c5384a6ade3182fc2dcc0720516ffaa8f46e5b2c237630"
+    },
+    {
+      "file": "./service-scenes/go.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "9ee155698568569b1f806d4e5406be10cecd479b2e9ac2f6e7aa7789091b2920"
+    },
+    {
+      "file": "./service-scenes/health-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "2335a7a361a73a1c48ccf837b82be0697f5f724dfbb383881d72f1834ff655a9"
+    },
+    {
+      "file": "./service-scenes/health.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "8dec4271d60ca0a201982390f290b12d5a940da97c0a13227a5031bf239ba56d"
+    },
+    {
+      "file": "./service-scenes/miniapp-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "1495e2c8bf64b2891583edb44b8958d9e23a711f83f5d11b57d843212931f4dc"
+    },
+    {
+      "file": "./service-scenes/miniapp.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "654800288bd5d75720b32aabcaa04348253bde25e2c45de0c0a08a908f108d00"
+    },
+    {
+      "file": "./service-scenes/music-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "a421fbe2997403673f707da85ba17cb6a719c9a8a0587bf25e78d134473acdf0"
+    },
+    {
+      "file": "./service-scenes/music.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "fb597359bba24306da8d653c281f05d95e4f291900e0d59218c41ceea0e64ccb"
+    },
+    {
+      "file": "./service-scenes/nature-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "61fb1826686fb253b30b5646d9d1275553303627f13990466bc6254df97d0f55"
+    },
+    {
+      "file": "./service-scenes/nature.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "41cd59abe7da1866a66fd88b003e458a63dfee633a03520810f289aab59ab5fb"
+    },
+    {
+      "file": "./service-scenes/piano-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "67027f47d8bb8fd35ac1db638120bc7f45442d95acf8dd0618decd488703f2d2"
+    },
+    {
+      "file": "./service-scenes/piano.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "51aa1a630664ab8fb4f11a23f1437c2feedf617e9f2dd9e30998c5700e93acbc"
+    },
+    {
+      "file": "./service-scenes/reading-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "f8ec3542cf499c2b2be02fb3330cc429400677d06d4904caab1864bfd8d74213"
+    },
+    {
+      "file": "./service-scenes/reading.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "a3f3b4dfcbd063e27bdd5399fa89b1006b5f8a54fdcbf105346d31df2efd1f81"
+    },
+    {
+      "file": "./service-scenes/shopping-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "e2e141587c7262faad3d376b837dd7793318390b87e191f1d7aae475ba080c16"
+    },
+    {
+      "file": "./service-scenes/shopping.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "05b3711243f86b989e5a31c2cf865060b48d5050c51a62c98a42bced4cd7e7fa"
+    },
+    {
+      "file": "./service-scenes/speech-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "ea52cfef63e5b1589b876124efbaafb2ec137fc5592701f68a96963f777c7760"
+    },
+    {
+      "file": "./service-scenes/speech.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "3c51845290f0db8b32537e366582a4c1fbb7e0d68976a1e09a155cae9f03a000"
+    },
+    {
+      "file": "./service-scenes/street-dance-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "dd5d04af9a8e72e496439582d54c9e8ccf03897fbb181cfa85c322d4a68623fd"
+    },
+    {
+      "file": "./service-scenes/street-dance.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "974ba38f1be9ff7d05383725ca5b65a459da978c8c42b96621d320d796f61ca8"
+    },
+    {
+      "file": "./service-scenes/website-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "b2bfb015a640a2df68af3591d834d77161028b58af2f9c810495e3d7a804a356"
+    },
+    {
+      "file": "./service-scenes/website.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "2229287f3f62bf9ede249f250caeec94907fb63ea82b1148b1ef606f985f89c3"
+    },
+    {
+      "file": "./service-scenes/workflow-practice.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "ea8701b1b9d6ef6403cea2220211a2463fea77bcdb10d8e112ee32ae1be012f7"
+    },
+    {
+      "file": "./service-scenes/workflow.svg",
+      "kind": "original-vector-illustration",
+      "width": 1200,
+      "height": 760,
+      "sha256": "b126a235f18c5ce7857530dfc45d25ee33dc020c191b2eed9a7a531eaaaba1a4"
+    }
+  ]
+}
