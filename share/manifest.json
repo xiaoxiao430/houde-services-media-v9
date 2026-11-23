@@ -6,8 +6,8 @@
       "file": "site-square.jpg",
       "width": 600,
       "height": 600,
-      "bytes": 64637,
-      "sha256": "3654db80d2fe3ad71f8dd38df4b0cf5d10f04e10af00bcf8cef9cabbe8c351ce",
+      "bytes": 64536,
+      "sha256": "2716c137ebd8b3c5af9290d9f7d6b198af54625d2851b1cd61ba56947ea04f8b",
       "fonts": [
         "Microsoft YaHei"
       ],
@@ -21,8 +21,8 @@
       "file": "site-wide.jpg",
       "width": 1200,
       "height": 630,
-      "bytes": 110802,
-      "sha256": "1cbe1812f712c80d3e2b5806c1bbbb9a23b1f94e1213cfd171ca367da02b8577",
+      "bytes": 110706,
+      "sha256": "d0903a1a003cefc71a645a38a48a998ee97fe4f0b42fc62183fdd10c70509632",
       "fonts": [
         "Microsoft YaHei"
       ],
