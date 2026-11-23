@@ -1,0 +1,71 @@
+{
+  "verifiedAt": "2026-11-23",
+  "method": "采用平台作品发布封面，保留完整设计和原字节，不截取视频播放画面。",
+  "works": [
+    {
+      "id": "7639950638939409690",
+      "title": "HDTV《厚德之声》第1期｜校园故事与育人实践",
+      "category": "育人理念",
+      "existingCover": "./media-v8/douyin/7639950638939409690.jpg",
+      "originalUrl": "https://www.douyin.com/video/7639950638939409690",
+      "status": "downloaded",
+      "coverField": "aweme_detail.video.dynamic_cover",
+      "coverUri": "tos-cn-i-dy/6df91faa9b9f40ea9c819721474e5238",
+      "lowResolutionCoverUri": "image-cut-tos-priv/905cabd36c234c865cc01dc09bb7be9f",
+      "publishedAt": "2026-05-15T10:00:00.000Z",
+      "author": "赣州厚德外国语学校",
+      "sourceUrl": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/6df91faa9b9f40ea9c819721474e5238?lk3s=138a59ce&x-expires=1796616000&x-signature=mVFSSqxfP3TCKNi6vaB%2BxEyxcQk%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=202611231201383367C5DF91A6B9D9E38D",
+      "bytes": 347532,
+      "sha256": "1f27c6fcd18429cac8fae42f0d9ef381dbc47605896ad515942249add7dec3bf",
+      "contentType": "image/jpeg",
+      "width": 1084,
+      "height": 1448,
+      "format": "JPEG",
+      "frameCount": 1,
+      "existingWidth": 440,
+      "existingHeight": 330,
+      "recommendedAction": "replace-with-published-cover"
+    },
+    {
+      "id": "7619227767917399348",
+      "title": "你的最佳学习搭子是谁？快来认领～",
+      "category": "校园生活",
+      "existingCover": "./media-v8/douyin/7619227767917399348.jpg",
+      "originalUrl": "https://www.douyin.com/video/7619227767917399348",
+      "status": "downloaded",
+      "coverField": "aweme_detail.video.dynamic_cover",
+      "coverUri": "tos-cn-i-dy/9679908749aa45f698aeba278addb667",
+      "lowResolutionCoverUri": "image-cut-tos-priv/4663124f6fe6495b3c238a9a0026380c",
+      "publishedAt": "2026-03-20T10:00:00.000Z",
+      "author": "赣州厚德外国语学校",
+      "sourceUrl": "https://p3-pc-sign.douyinpic.com/obj/tos-cn-i-dy/9679908749aa45f698aeba278addb667?lk3s=138a59ce&x-expires=1796616000&x-signature=Yip%2FuJraqB8R6g5grOIs2t4vnpA%3D&from=327834062_large&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=dynamic_cover&biz_tag=pcweb_cover&l=2026112312013928620DEE41A75A7421FE",
+      "bytes": 525946,
+      "sha256": "10c0b3d5169b88076f994e2faa28cbb7b329a5cd8e866d726fae126583533c5d",
+      "contentType": "image/jpeg",
+      "width": 1618,
+      "height": 2160,
+      "format": "JPEG",
+      "frameCount": 1,
+      "existingWidth": 440,
+      "existingHeight": 330,
+      "recommendedAction": "replace-with-published-cover"
+    },
+    {
+      "id": "7683505736979179963",
+      "contentType": "image/jpeg",
+      "sourceUrl": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b55e25248678f35e4eef1600a0cc0913~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110766400&x-signature=%2Fy%2BaigklSea0hj7JJ7UoEZa1ry8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026112312053266C023B6F2DC8AC9894A",
+      "sha256": "0df6c84ced41839e077812e18fc70c53526674b978441e007536886002dad1fa",
+      "width": 440,
+      "height": 330,
+      "coverField": "aweme_detail.video.cover",
+      "note": "平台静态发布封面；保留完整教师节文案，不采用9帧动画，也不截图播放画面。"
+    }
+  ],
+  "privateHistory": {
+    "id": "7683850424558905275",
+    "verifiedAt": "2026-11-23",
+    "source": "official get_iframe_by_video",
+    "err_no": 28003004,
+    "status": "非公开视频；保留历史收录和原链接，不启用播放器"
+  }
+}

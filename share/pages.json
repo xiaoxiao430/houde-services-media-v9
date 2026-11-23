@@ -1,0 +1,588 @@
+{
+  "generatedFor": "厚外服务",
+  "pages": [
+    {
+      "path": "share/",
+      "route": "/home",
+      "title": "厚外服务",
+      "description": "快乐相伴，幸福同行。校园资讯、成长故事与家庭服务，在这里一起找到。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "path": "share/media/douyin-7700588492178720211/",
+      "route": "/media/douyin-7700588492178720211",
+      "title": "【罗校有约】对话赣南师大王从华教授，解答家长最困惑的阅读难题。",
+      "description": "从家长关心的阅读难题出发，听罗校长与赣南师大王从华教授对话。点击查看完整原作。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/principal/7700588492178720211-poster.jpg"
+    },
+    {
+      "path": "share/media/douyin-7692753398529306986/",
+      "route": "/media/douyin-7692753398529306986",
+      "title": "静坐=提升专注力？让我们一起读懂专注力的影响因素与培养方法。",
+      "description": "围绕“静坐是否等于提升专注力”展开讨论，帮助家长了解原作提出的专注力影响因素与培养问题。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/principal/7692753398529306986-poster.jpg"
+    },
+    {
+      "path": "share/media/douyin-7704244466273537331/",
+      "route": "/media/douyin-7704244466273537331",
+      "title": "让我们一起出发，带着朝气与勇气，在运动场上绽放独属于少年的蓬勃活力！",
+      "description": "运动会开幕式里的少年活力，跟着同学们一起带着朝气与勇气出发。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7704244466273537331.png"
+    },
+    {
+      "path": "share/media/douyin-7702376818250091810/",
+      "route": "/media/douyin-7702376818250091810",
+      "title": "怀旧旋律遇上小小少年，开幕式一曲青苹果乐园，欢乐值拉满！",
+      "description": "怀旧旋律遇上小小少年，看看开幕式上的《青苹果乐园》舞蹈。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7702376818250091810.png"
+    },
+    {
+      "path": "share/media/douyin-7699792593592372489/",
+      "route": "/media/douyin-7699792593592372489",
+      "title": "以为是个普通课间？结果听了一场小型音乐会，宝藏老师和同学，都在这里了！",
+      "description": "普通课间变成小型音乐会，记录老师和同学们在钢琴旁的校园日常。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7699792593592372489.png"
+    },
+    {
+      "path": "share/media/douyin-7694961628932437413/",
+      "route": "/media/douyin-7694961628932437413",
+      "title": "《厚外学子说》第二季 · 第6集｜从年级50名“逆袭”到北大，拼的是心态还是天赋？",
+      "description": "听学长回顾年级排名变化，聊一聊学习心态、持续努力与个人成长。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7694961628932437413.png"
+    },
+    {
+      "path": "share/media/douyin-7691138178719288591/",
+      "route": "/media/douyin-7691138178719288591",
+      "title": "《厚外学子说》第二季 · 第5集｜清北学长亲身分享：天天刷那么多模拟题，为什么成绩还是提不上去？",
+      "description": "学长回看高三刷题的经历，分享模拟题练习与真正理解之间的体会。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7691138178719288591.png"
+    },
+    {
+      "path": "share/media/douyin-7691135611528350976/",
+      "route": "/media/douyin-7691135611528350976",
+      "title": "五星红旗飘扬处，是我心之所向",
+      "description": "学校的国庆主题变装作品，用校园影像表达心中所向。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7691135611528350976.png"
+    },
+    {
+      "path": "share/media/douyin-7691361852282478961/",
+      "route": "/media/douyin-7691361852282478961",
+      "title": "小小宇航员望向星空，那里有中国红在飘扬。这是孩子们心中，最骄傲的颜色。（灵感来源：Mr.Liang）",
+      "description": "孩子们以小小宇航员与中国红为灵感，完成国庆主题创意影像。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7691361852282478961.png"
+    },
+    {
+      "path": "share/media/douyin-7691138054844714281/",
+      "route": "/media/douyin-7691138054844714281",
+      "title": "愿以少年青春，护这山河远阔。祝祖国生日快乐！",
+      "description": "以少年青春为祖国庆生，校园里的国庆转场与五星红旗。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7691138054844714281.png"
+    },
+    {
+      "path": "share/media/douyin-7688618840313367827/",
+      "route": "/media/douyin-7688618840313367827",
+      "title": "《厚外学子说》第二季 · 第4集｜清华学长：为什么高中阶段不推荐用AI学习？",
+      "description": "听人工智能专业学长谈高中学习与AI工具。原作呈现个人体会，供亲子共同讨论学习目标和使用方式。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xingguo/7688618840313367827.png"
+    },
+    {
+      "path": "share/media/douyin-7704580105095384817/",
+      "route": "/media/douyin-7704580105095384817",
+      "title": "当别人问我们班运动会得第几名时，我就这样......",
+      "description": "别人问到班级运动会名次时，同学们会怎样回答？一起看赛场外的小幽默。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7704580105095384817.png"
+    },
+    {
+      "path": "share/media/douyin-7704263052434122106/",
+      "route": "/media/douyin-7704263052434122106",
+      "title": "班主任喊话神器上线！有序呼叫学生，告别扎堆聚拢，班级日常管理更从容有序！",
+      "description": "班主任展示日常管理中的呼叫工具，让学生集合与班级活动更有序。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7704263052434122106.png"
+    },
+    {
+      "path": "share/media/douyin-7701159135480043889/",
+      "route": "/media/douyin-7701159135480043889",
+      "title": "势均力敌吗？我要的是绝对压制！",
+      "description": "比赛场上认真较劲、全力以赴，记录厚德娃的运动会瞬间。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7701159135480043889.png"
+    },
+    {
+      "path": "share/media/douyin-7691186540600593829/",
+      "route": "/media/douyin-7691186540600593829",
+      "title": "没有华丽的舞台，只有真诚的歌声。孩子们用一首《我爱你中国》，唱出心里最朴素的爱。",
+      "description": "不用华丽舞台，孩子们用一首《我爱你中国》唱出真诚的心意。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7691186540600593829.png"
+    },
+    {
+      "path": "share/media/douyin-7691185706769804793/",
+      "route": "/media/douyin-7691185706769804793",
+      "title": "相亲相爱，师生同心！用一支舞为祖国庆生，愿山河锦绣，国泰民安！",
+      "description": "老师和孩子们一起跳起来，用校园舞蹈迎接国庆。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7691185706769804793.png"
+    },
+    {
+      "path": "share/media/douyin-7687814925686763249/",
+      "route": "/media/douyin-7687814925686763249",
+      "title": "哈兰德之歌一响，快乐就位，厚德娃把校园跳成欢乐主场！",
+      "description": "哈兰德之歌响起，课间操变成欢乐主场，感受小学生的活力。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7687814925686763249.png"
+    },
+    {
+      "path": "share/media/douyin-7686036907012985338/",
+      "route": "/media/douyin-7686036907012985338",
+      "title": "在厚外，LOVE的意思是......",
+      "description": "用创意转场说出校园里的 LOVE，看看厚德娃的巧思。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7686036907012985338.png"
+    },
+    {
+      "path": "share/media/douyin-7683850424558905275/",
+      "route": "/media/douyin-7683850424558905275",
+      "title": "老师推门进来，笑得像个孩子！教师节的浪漫，很简单，也很用心！",
+      "description": "推门而来的惊喜让老师笑得像个孩子，教师节的浪漫藏在用心准备里。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7683850424558905275.png"
+    },
+    {
+      "path": "share/media/douyin-7683742197572855739/",
+      "route": "/media/douyin-7683742197572855739",
+      "title": "平日里，是老师记挂着孩子的每一件小事；这一次，换孩子们惦记老师。那些藏在一句句祝福里的心疼与牵挂，大概就是教师节最温暖的礼物。",
+      "description": "这一次，换孩子们惦记老师；一句句祝福记录双向的牵挂。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7683742197572855739.png"
+    },
+    {
+      "path": "share/media/douyin-7683505736979179963/",
+      "route": "/media/douyin-7683505736979179963",
+      "title": "藏在细节里的坚守致敬每一位老师 教师节，向所有教育工作者致敬",
+      "description": "从日常的小细节走近老师的工作与坚守，向陪伴成长的教育工作者致敬。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/published/7683505736979179963.jpg"
+    },
+    {
+      "path": "share/media/douyin-7667742772769794426/",
+      "route": "/media/douyin-7667742772769794426",
+      "title": "省级舞台，包揽冠亚  千人大赛，终摘桂冠！ 厚德少年，诗耀赣鄱",
+      "description": "跟随学校原片回看厚德少年登上诗词比赛舞台的精彩片段。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7667742772769794426.png"
+    },
+    {
+      "path": "share/media/douyin-7660858158663596987/",
+      "route": "/media/douyin-7660858158663596987",
+      "title": "暑假去干嘛？来听听孩子们的大实话！玩有玩的计划，学有学的安排，一个比一个有想法！",
+      "description": "暑假去干嘛？听孩子们讲自己的真实打算，玩与学都有各自的安排。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7660858158663596987.png"
+    },
+    {
+      "path": "share/media/douyin-7660322849115617381/",
+      "route": "/media/douyin-7660322849115617381",
+      "title": "好的教育，从来不是教出多少满分的孩子，而是让每一个孩子都觉得自己“被看见”了。",
+      "description": "从师生日常的小瞬间，体会让每一个孩子都被看见的教育。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7660322849115617381.png"
+    },
+    {
+      "path": "share/media/douyin-7659748343682458481/",
+      "route": "/media/douyin-7659748343682458481",
+      "title": "我要给我的孩子们“一被子的荣誉”！",
+      "description": "一场有巧思的学期末颁奖，把荣誉与老师的用心一起送给孩子。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7659748343682458481.png"
+    },
+    {
+      "path": "share/media/douyin-7658274715958044027/",
+      "route": "/media/douyin-7658274715958044027",
+      "title": "最好的毕业课，不是考了多少分，而是学会对每一个默默付出的人说一声谢谢。",
+      "description": "毕业时向默默付出的校园工作者道一声谢谢，把感恩带到下一段成长。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/xiangjiang/7658274715958044027.png"
+    },
+    {
+      "path": "share/media/douyin-7704123299801926953/",
+      "route": "/media/douyin-7704123299801926953",
+      "title": "每次奔跑，都是热爱的模样",
+      "description": "跟随厚外峰山校区的运动会镜头，看少年在跑道上奔赴热爱。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7704123299801926953.jpg"
+    },
+    {
+      "path": "share/media/douyin-7691261989084189093/",
+      "route": "/media/douyin-7691261989084189093",
+      "title": "一抹中国红，一颗赤子心",
+      "description": "厚高学子以青春的方式为祖国庆生，校园里的中国红格外鲜明。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7691261989084189093.jpg"
+    },
+    {
+      "path": "share/media/douyin-7691261148351956389/",
+      "route": "/media/douyin-7691261148351956389",
+      "title": "一镜到底《龙的传人》",
+      "description": "校园一镜到底的舞蹈作品，在少年意气中表达对祖国的祝福。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7691261148351956389.jpg"
+    },
+    {
+      "path": "share/media/douyin-7687546381954829577/",
+      "route": "/media/douyin-7687546381954829577",
+      "title": "铭记历史，厚德少年砥砺初心",
+      "description": "峰山校区九一八主题作品，记录少年铭记历史、珍惜当下的校园表达。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7687546381954829577.jpg"
+    },
+    {
+      "path": "share/media/douyin-7683883971826970981/",
+      "route": "/media/douyin-7683883971826970981",
+      "title": "时光不改热爱，致敬守梦的老师",
+      "description": "教师节主题作品，看看校园里师生之间的温暖与热爱。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7683883971826970981.jpg"
+    },
+    {
+      "path": "share/media/douyin-7678175510354054434/",
+      "route": "/media/douyin-7678175510354054434",
+      "title": "从目标大学到每天计划，怎样稳住学习节奏",
+      "description": "学校原作围绕心态与完整规划展开，谈从长远目标落实到每天计划。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7678175510354054434.jpg"
+    },
+    {
+      "path": "share/media/douyin-7678164801620626724/",
+      "route": "/media/douyin-7678164801620626724",
+      "title": "美术生再出发：这一年的选择与成长",
+      "description": "学校原作讲述美术生复读一年的经历，观看学生对选择与成长的分享。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7678164801620626724.jpg"
+    },
+    {
+      "path": "share/media/douyin-7676299405598788916/",
+      "route": "/media/douyin-7676299405598788916",
+      "title": "自主学习加老师支持，一年的成长回看",
+      "description": "学校原作围绕自主学习和教师支持展开，听学生回看一年的学习经历。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7676299405598788916.jpg"
+    },
+    {
+      "path": "share/media/douyin-7667476035067219215/",
+      "route": "/media/douyin-7667476035067219215",
+      "title": "她的英语学习思路，发生了怎样的变化",
+      "description": "学校原作分享英语学习的调整过程，供家长与孩子一起讨论适合自己的方法。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7667476035067219215.jpg"
+    },
+    {
+      "path": "share/media/douyin-7667475066979896585/",
+      "route": "/media/douyin-7667475066979896585",
+      "title": "碰到难题，怎样把“不会”变成下一次的底气",
+      "description": "学校原作讨论面对难题的心态与学习方法，关注每一次尝试和改进。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7667475066979896585.jpg"
+    },
+    {
+      "path": "share/media/douyin-7667102726739807488/",
+      "route": "/media/douyin-7667102726739807488",
+      "title": "专注做好眼前的小事，稳住学习心态",
+      "description": "学校原作从日常学习谈专注与心态，在一件件小事中积累成长。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7667102726739807488.jpg"
+    },
+    {
+      "path": "share/media/douyin-7665996704407129384/",
+      "route": "/media/douyin-7665996704407129384",
+      "title": "英语高分段继续进步，他做对了什么",
+      "description": "学校原作分享英语学习经历，听学生谈高分段学习中的具体调整。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/fengshan/7665996704407129384.jpg"
+    },
+    {
+      "path": "share/media/douyin-7704502015308664090/",
+      "route": "/media/douyin-7704502015308664090",
+      "title": "《厚外学子说》第二季 · 第12集｜为什么越盯着分数越学不好？这篇课文教会我：别盯着阶段性结果，只管踏实走下去，结果会水到渠成。",
+      "description": "从一篇课文谈阶段性结果与踏实学习，关注过程、心态和长期成长。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/douyin/7704502015308664090.png"
+    },
+    {
+      "path": "share/media/douyin-7702012329478589731/",
+      "route": "/media/douyin-7702012329478589731",
+      "title": "《厚外学子说》第二季 · 第11集｜都说文科无用，清华新生为什么还有意考公？因为文科的价值不只在课堂，也在现实选择里。",
+      "description": "听学长谈文科学习、个人兴趣与未来选择，理解不同的成长路径。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/douyin/7702012329478589731.png"
+    },
+    {
+      "path": "share/media/douyin-7701991329441647926/",
+      "route": "/media/douyin-7701991329441647926",
+      "title": "《厚外学子说》第二季 · 第10集｜孩子一遇低谷成绩就下滑，是状态问题还是方法问题？",
+      "description": "围绕学习低谷、状态与方法展开交流，保留学校原作的完整表达。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/douyin/7701991329441647926.png"
+    },
+    {
+      "path": "share/media/douyin-7699790921826700585/",
+      "route": "/media/douyin-7699790921826700585",
+      "title": "《厚外学子说》第二季 · 第9集｜孩子小学初中成绩中等，高中还有机会逆袭成尖子生吗？",
+      "description": "听学长回看不同学段的学习变化，讨论成长、调整和持续尝试。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/douyin/7699790921826700585.png"
+    },
+    {
+      "path": "share/media/douyin-7697178743781018907/",
+      "route": "/media/douyin-7697178743781018907",
+      "title": "《厚外学子说》第二季 · 第8集｜北大学长的阶段性复习法：100天、50天、考前，他分别做了什么？",
+      "description": "从学校原片了解阶段性复习的安排，关注不同时间节点怎样调整学习任务。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/douyin/7697178743781018907.png"
+    },
+    {
+      "path": "share/media/douyin-7697175842291600649/",
+      "route": "/media/douyin-7697175842291600649",
+      "title": "《厚外学子说》第二季 · 第7集｜看起来没你努力的人，为什么成绩反而更好？清华学长：不拼时间，拼的是学习效率和节奏",
+      "description": "学长分享学习效率与日常节奏的体会，供家长与孩子一起讨论适合自己的学习方法。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/douyin/7697175842291600649.png"
+    },
+    {
+      "path": "share/media/douyin-7639950638939409690/",
+      "route": "/media/douyin-7639950638939409690",
+      "title": "HDTV《厚德之声》第1期｜校园故事与育人实践",
+      "description": "学校自办校园节目：校内新闻、数学节、成人礼与英语学习等内容，完整内容以学校原片为准。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/published/7639950638939409690.jpg"
+    },
+    {
+      "path": "share/media/douyin-7619227767917399348/",
+      "route": "/media/douyin-7619227767917399348",
+      "title": "你的最佳学习搭子是谁？快来认领～",
+      "description": "从初中班级的课代表与学习搭子，看见同伴互助和校园日常。保留学校原作入口。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v9/published/7619227767917399348.jpg"
+    },
+    {
+      "path": "share/media/channels-AW3KKJXQax/",
+      "route": "/media/channels-AW3KKJXQax",
+      "title": "以育分为基 重育人为实 | 清华大学携手厚德外国语学校共创“健康第一”育人新格局",
+      "description": "赣州市厚德外国语学校发布的原作，围绕“健康第一”呈现学校育人探索。保留原题与原封面，微信内可继续观看完整视频。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-v8/channels/AW3KKJXQax-cover.jpg"
+    },
+    {
+      "path": "share/media/media-healthy-education/",
+      "route": "/media/media-healthy-education",
+      "title": "以育分为基 重育人为实 - 清华大学携手厚德外国语学校共创“健康第一”育人新格局",
+      "description": "从学校与清华大学的合作报道，了解“健康第一”如何进入育人探索。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/news-1690-cover.webp"
+    },
+    {
+      "path": "share/media/media-music-week/",
+      "route": "/media/media-music-week",
+      "title": "音融百川续文脉 章贡弦歌启新声 - 我校承办区中小学音乐教学行动周",
+      "description": "走近学校承办的音乐教学行动周，从课堂与教研看见美育。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/news-1689-cover.webp"
+    },
+    {
+      "path": "share/media/media-teacher-mentoring/",
+      "route": "/media/media-teacher-mentoring",
+      "title": "青蓝赓续传薪火 师徒携手共致远 - 厚德外国语学校初中部 “蓝青结对” 启动仪式圆满举行",
+      "description": "从初中部“蓝青结对”报道，了解教师怎样在共同学习中成长。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/news-1687-cover.webp"
+    },
+    {
+      "path": "share/media/media-fathersday/",
+      "route": "/media/media-fathersday",
+      "title": "爸爸我爱你——为什么这句话，中国人要练习一辈子？",
+      "description": "一次真实课堂，打开孩子与父母之间的情感表达。原文与封面沿用学校已归档的公众号文章。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/wechat-fathersday-cover.jpg"
+    },
+    {
+      "path": "share/media/media-yisheng/",
+      "route": "/media/media-yisheng",
+      "title": "【CCTV 匠心之路】《一声厚德 一世厚德》正式开播！教育的答案，不止在书本里",
+      "description": "带着关于教育与成长的问题走进校园，观看学校原片。展示名称沿用此前已确认的版本。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1BKTt6tEAr.jpg"
+    },
+    {
+      "path": "share/media/media-fiveyear/",
+      "route": "/media/media-fiveyear",
+      "title": "赣州市厚德外国语学校近五年亮点工作回眸",
+      "description": "18分12秒历史影像，回看学校的发展与变化。片中信息以拍摄时点为准。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1gv1sBvESm.jpg"
+    },
+    {
+      "path": "share/media/media-top10/",
+      "route": "/media/media-top10",
+      "title": "厚外教育2024年十大要闻",
+      "description": "17分04秒年度回眸，一起看见这一年被记录的校园故事。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1gv1sBvEZM.jpg"
+    },
+    {
+      "path": "share/media/media-teaching/",
+      "route": "/media/media-teaching",
+      "title": "2022教学成果展示",
+      "description": "13分57秒历史影像，从已有记录认识学校的课堂与教学探索。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1Qv1sBvEJ6.jpg"
+    },
+    {
+      "path": "share/article/healthy-education/",
+      "route": "/article/healthy-education",
+      "title": "以育分为基 重育人为实 - 清华大学携手厚德外国语学校共创“健康第一”育人新格局",
+      "description": "孩子的健康与成长，也是教育需要认真回答的问题。共读学校最新合作报道。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/news-1690-cover.webp"
+    },
+    {
+      "path": "share/article/music-week/",
+      "route": "/article/music-week",
+      "title": "音融百川续文脉 章贡弦歌启新声 - 我校承办区中小学音乐教学行动周",
+      "description": "音乐课怎样陪伴孩子成长？从一次教学行动周，走近学校的美育与教研。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/news-1689-cover.webp"
+    },
+    {
+      "path": "share/article/teacher-mentoring/",
+      "route": "/article/teacher-mentoring",
+      "title": "青蓝赓续传薪火 师徒携手共致远 - 厚德外国语学校初中部 “蓝青结对” 启动仪式圆满举行",
+      "description": "老师也在持续学习。由初中部“蓝青结对”报道，认识教师成长的一个具体环节。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/media-assets/news-1687-cover.webp"
+    },
+    {
+      "path": "share/article/classroom/",
+      "route": "/article/classroom",
+      "title": "一堂好课，孩子应该留下什么？",
+      "description": "栏目样稿 · 从敢提问到能讲清自己的思路，看见课堂里更细小、更持久的成长。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-classroom.jpg"
+    },
+    {
+      "path": "share/article/robot/",
+      "route": "/article/robot",
+      "title": "机器人赛事走进厚外，打开科学探索的一扇窗",
+      "description": "2026世界机器人大赛江西省选拔赛在校举行。家长可以从赛事看见哪些学习机会？",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/news-robot-thumb.jpg"
+    },
+    {
+      "path": "share/article/ai-education/",
+      "route": "/article/ai-education",
+      "title": "AI走进教育，家长最值得关注的是孩子怎样思考",
+      "description": "共读《“人工智能+教育”行动计划》，从素养与实际问题出发理解技术带来的变化。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg"
+    },
+    {
+      "path": "share/article/yisheng/",
+      "route": "/article/yisheng",
+      "title": "《一声厚德 一世厚德》：从一部影像认识厚外",
+      "description": "栏目样稿 · 重看学校影像，带着关于教育与成长的问题走进校园。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1BKTt6tEAr.jpg"
+    },
+    {
+      "path": "share/article/poetry/",
+      "route": "/article/poetry",
+      "title": "诗词赛场上的厚外少年：让文字成为成长的陪伴",
+      "description": "从学校公开的诗词竞赛新闻，聊聊家庭里的阅读与表达。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/news-poetry-thumb.jpg"
+    },
+    {
+      "path": "share/article/homework/",
+      "route": "/article/homework",
+      "title": "作业做完以后，留一分钟说说“我是怎么想的”",
+      "description": "栏目样稿 · 不增加一道题，也可以让一次学习回顾更有意义。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-study-yellow.jpg"
+    },
+    {
+      "path": "share/article/sleep/",
+      "route": "/article/sleep",
+      "title": "把睡眠放进学习计划：一份值得家校共同读的通知",
+      "description": "小学10小时、初中9小时、高中8小时。先了解教育部的睡眠管理要求。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg"
+    },
+    {
+      "path": "share/article/fiveyear/",
+      "route": "/article/fiveyear",
+      "title": "校园回眸｜厚外近五年亮点工作影像",
+      "description": "栏目样稿 · 从已经留下的影像，回看学校的发展与变化。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1gv1sBvESm.jpg"
+    },
+    {
+      "path": "share/article/newstudent/",
+      "route": "/article/newstudent",
+      "title": "从第一次走进校园开始，陪孩子认识小学生活",
+      "description": "重读2026级新生报名新闻，关注孩子入学前的小期待。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/news-newstudent-thumb.jpg"
+    },
+    {
+      "path": "share/article/family-law/",
+      "route": "/article/family-law",
+      "title": "家庭教育，从一次愿意倾听的对话开始",
+      "description": "共读家庭教育促进法，理解陪伴、尊重与家校协同。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg"
+    },
+    {
+      "path": "share/article/teacher-research/",
+      "route": "/article/teacher-research",
+      "title": "老师在课后讨论什么？从一份教案看教研",
+      "description": "栏目样稿 · 把“怎样教得更明白”变成可以一起讨论的问题。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-teacher-research.jpg"
+    },
+    {
+      "path": "share/article/top10/",
+      "route": "/article/top10",
+      "title": "影像档案｜一起回看厚外教育2024年十大要闻",
+      "description": "栏目样稿 · 留住共同经历，也为今天的校园生活找到一段背景。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1gv1sBvEZM.jpg"
+    },
+    {
+      "path": "share/article/phone/",
+      "route": "/article/phone",
+      "title": "手机使用约定，怎样在家校之间接得上？",
+      "description": "共读教育部手机管理通知，从沟通需求与使用规则谈起。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg"
+    },
+    {
+      "path": "share/article/three-campuses/",
+      "route": "/article/three-campuses",
+      "title": "三处校园，同一份关于成长的关心",
+      "description": "栏目样稿 · 从兴国路、香江路到峰山，认识厚外的完整教育路径。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/campuses/xingguolu.webp"
+    },
+    {
+      "path": "share/article/teaching-video/",
+      "route": "/article/teaching-video",
+      "title": "课堂影像｜回看2022教学成果展示",
+      "description": "栏目样稿 · 带着今天的教育问题，重看一段课堂与教学的历史记录。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/ideals/BV1Qv1sBvEJ6.jpg"
+    },
+    {
+      "path": "share/article/labour/",
+      "route": "/article/labour",
+      "title": "劳动课之外，家里也能留一件让孩子负责的小事",
+      "description": "从义务教育课程方案与劳动课程标准，看见生活能力的价值。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg"
+    },
+    {
+      "path": "share/article/family-dialogue/",
+      "route": "/article/family-dialogue",
+      "title": "放学后，换个问题和孩子聊一聊",
+      "description": "栏目样稿 · 从“今天开心吗”到“哪一刻你最想讲给我听”，为交流留一点空间。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-student-activity.jpg"
+    },
+    {
+      "path": "share/article/hdtv/",
+      "route": "/article/hdtv",
+      "title": "HDTV·校园观察｜课间里的另一种成长",
+      "description": "栏目样稿 · 把镜头留给操场、走廊与同伴相处，拟选题导读。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-running.jpg"
+    },
+    {
+      "path": "share/article/science/",
+      "route": "/article/science",
+      "title": "科学教育，不妨从孩子的“为什么”接着问",
+      "description": "共读科学教育工作意见，看见校园与社会资源如何连接。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/share/site-square.jpg"
+    },
+    {
+      "path": "share/article/houde-voice/",
+      "route": "/article/houde-voice",
+      "title": "厚德之声｜我们想和家长一起聊的教育问题",
+      "description": "栏目样稿 · 一份待采制的访谈提纲：让校长、老师、家长和社会来宾从具体经历谈起。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-teacher-research.jpg"
+    },
+    {
+      "path": "share/topic/understand/",
+      "route": "/topic/understand",
+      "title": "读懂厚外",
+      "description": "先认识学校，再走进课堂与教师的日常。用一条连续的阅读路径，把零散的校园印象连接起来。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-classroom.jpg"
+    },
+    {
+      "path": "share/topic/growth/",
+      "route": "/topic/growth",
+      "title": "看见成长",
+      "description": "从入学、课堂到活动与表达，看见孩子如何参与、尝试和改变，也看见不同学段的成长节奏。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-student-activity.jpg"
+    },
+    {
+      "path": "share/topic/family/",
+      "route": "/topic/family",
+      "title": "家校共育",
+      "description": "围绕家庭里的真实问题共读、交流与尝试。把学校和家庭的观察放在一起，为孩子提供持续支持。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-evening-reading.jpg"
+    },
+    {
+      "path": "share/topic/explore/",
+      "route": "/topic/explore",
+      "title": "教育探索与社会连接",
+      "description": "从科学实践到人工智能，从课堂改进到社会资源，理解教育探索背后的问题、方法与长期方向。",
+      "image": "https://xiaoxiao430.github.io/houde-services-media-v9/assets/campus-teacher-research.jpg"
+    }
+  ]
+}

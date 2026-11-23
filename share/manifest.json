@@ -1,0 +1,36 @@
+{
+  "purpose": "微信链接缩略图与网页社交分享预览图",
+  "brand": "厚外服务",
+  "records": [
+    {
+      "file": "site-square.jpg",
+      "width": 600,
+      "height": 600,
+      "bytes": 64637,
+      "sha256": "3654db80d2fe3ad71f8dd38df4b0cf5d10f04e10af00bcf8cef9cabbe8c351ce",
+      "fonts": [
+        "Microsoft YaHei"
+      ],
+      "source": "厚外服务真实首页与推荐页截图，明亮品牌图文排版；无视频帧",
+      "screenshotViewport": {
+        "width": 390,
+        "height": 844
+      }
+    },
+    {
+      "file": "site-wide.jpg",
+      "width": 1200,
+      "height": 630,
+      "bytes": 110802,
+      "sha256": "1cbe1812f712c80d3e2b5806c1bbbb9a23b1f94e1213cfd171ca367da02b8577",
+      "fonts": [
+        "Microsoft YaHei"
+      ],
+      "source": "厚外服务真实首页与推荐页截图，明亮品牌图文排版；无视频帧",
+      "screenshotViewport": {
+        "width": 390,
+        "height": 844
+      }
+    }
+  ]
+}
